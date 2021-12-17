@@ -1,0 +1,22 @@
+.p {
+  width: 30%;
+  height: 60vh;
+  margin: 5px 5px;
+  overflow: hidden;
+}
+
+.p-img {
+  width: 100%;
+}
+
+.p:hover .p-img {
+  background-color: azure;
+  opacity: 80%;
+}
+
+@media screen and (max-width: 480px) {
+  .p {
+    width: 30%;
+    height: 20vh;
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/final_project_portfolio/static/css/main.f00943ed.chunk.css",
+    "main.js": "/final_project_portfolio/static/js/main.fb341dab.chunk.js",
+    "main.js.map": "/final_project_portfolio/static/js/main.fb341dab.chunk.js.map",
+    "runtime-main.js": "/final_project_portfolio/static/js/runtime-main.bfccd787.js",
+    "runtime-main.js.map": "/final_project_portfolio/static/js/runtime-main.bfccd787.js.map",
+    "static/js/2.bf76dddf.chunk.js": "/final_project_portfolio/static/js/2.bf76dddf.chunk.js",
+    "static/js/2.bf76dddf.chunk.js.map": "/final_project_portfolio/static/js/2.bf76dddf.chunk.js.map",
+    "index.html": "/final_project_portfolio/index.html",
+    "static/css/main.f00943ed.chunk.css.map": "/final_project_portfolio/static/css/main.f00943ed.chunk.css.map",
+    "static/js/2.bf76dddf.chunk.js.LICENSE.txt": "/final_project_portfolio/static/js/2.bf76dddf.chunk.js.LICENSE.txt",
+    "static/media/portfolio.css": "/final_project_portfolio/static/media/GothamBook.58fb9151.ttf",
+    "static/media/address.a01cb8cc.png": "/final_project_portfolio/static/media/address.a01cb8cc.png",
+    "static/media/email.a49e0158.png": "/final_project_portfolio/static/media/email.a49e0158.png",
+    "static/media/img1.6eeee64c.png": "/final_project_portfolio/static/media/img1.6eeee64c.png",
+    "static/media/img10.5c97bf33.jpg": "/final_project_portfolio/static/media/img10.5c97bf33.jpg",
+    "static/media/img11.747665d2.jpg": "/final_project_portfolio/static/media/img11.747665d2.jpg",
+    "static/media/img12.28b907d9.jpg": "/final_project_portfolio/static/media/img12.28b907d9.jpg",
+    "static/media/img13.24011e69.jpg": "/final_project_portfolio/static/media/img13.24011e69.jpg",
+    "static/media/img14.5d163ecb.jpg": "/final_project_portfolio/static/media/img14.5d163ecb.jpg",
+    "static/media/img15.e8955212.jpg": "/final_project_portfolio/static/media/img15.e8955212.jpg",
+    "static/media/img16.dc7384f8.jpg": "/final_project_portfolio/static/media/img16.dc7384f8.jpg",
+    "static/media/img17.56515fce.jpg": "/final_project_portfolio/static/media/img17.56515fce.jpg",
+    "static/media/img2.8b848144.png": "/final_project_portfolio/static/media/img2.8b848144.png",
+    "static/media/img3.192a5ef4.png": "/final_project_portfolio/static/media/img3.192a5ef4.png",
+    "static/media/img4.26200cce.jpg": "/final_project_portfolio/static/media/img4.26200cce.jpg",
+    "static/media/img5.893ff45b.jpg": "/final_project_portfolio/static/media/img5.893ff45b.jpg",
+    "static/media/img6.5475d8dd.png": "/final_project_portfolio/static/media/img6.5475d8dd.png",
+    "static/media/img7.07f38048.png": "/final_project_portfolio/static/media/img7.07f38048.png",
+    "static/media/img8.6c8c94e4.png": "/final_project_portfolio/static/media/img8.6c8c94e4.png",
+    "static/media/img9.26dfdd0b.jpg": "/final_project_portfolio/static/media/img9.26dfdd0b.jpg",
+    "static/media/joshuat logo.ede3e73a.png": "/final_project_portfolio/static/media/joshuat logo.ede3e73a.png",
+    "static/media/phone.d90a6d23.png": "/final_project_portfolio/static/media/phone.d90a6d23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfccd787.js",
+    "static/js/2.bf76dddf.chunk.js",
+    "static/css/main.f00943ed.chunk.css",
+    "static/js/main.fb341dab.chunk.js"
+  ]
+}

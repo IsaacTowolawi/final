@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Gotham-Black sans-serif;
+  src: url(/src/gotham-font/GothamBook.ttf);
+}
+
+body {
+  font-family: Gotham-Black, sans-serif;
+}
